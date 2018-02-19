@@ -1,3 +1,3 @@
 def reverse(input=''):    
-    return("".join(reversed(input)))
+    return "".join(reversed(input))
 
